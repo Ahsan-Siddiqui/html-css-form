@@ -1,0 +1,81 @@
+body
+{
+    /* background-color: #4d9b81; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    width: 1200px;
+}
+.heading
+{
+    background-color: #6485a4;
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    
+    text-align: left;
+}
+.mainContainer
+{
+ background-color: #e2eefa; 
+ padding: 10px;  
+}
+.section
+{
+    /* padding: 10px 30px; */
+    margin: 20px 100px;
+    text-align: left;
+}
+.whiteBox
+{
+    width: 20px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid rgb(180, 180, 180);
+}
+.genderBox
+{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid rgb(180, 180, 180);
+}
+.bTypeBox
+{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid rgb(180, 180, 180);
+}
+.SignatureBox
+{
+    padding: 80px;
+    background-color: white;
+    border: 1px solid rgb(180, 180, 180);
+}
+.SignatureEmptyBox
+{
+    padding: 80px;
+    border: 0px solid rgb(180, 180, 180);
+}
+.bTypeBoxText
+{
+    padding: 0px 10px;
+}
+.tableTopMargin
+{
+    margin-top: 20px;
+}
+.bTypeBoxOne
+{
+    padding: 30px 44px;
+    background-color: white;
+    border: 3px solid #7bc0d0;
+}
+.bTypeBoxTwo
+{
+    /* width: 240px; */
+    padding: 8px 45px;
+    text-align: center;
+    background-color: white;
+    border: 3px solid #7bc0d0; 
+}
